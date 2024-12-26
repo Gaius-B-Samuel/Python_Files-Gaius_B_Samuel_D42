@@ -6,3 +6,8 @@ Python Files &amp; Outputs
   1. Python Fundamentals.py
   2. PoundsToDollars.py
   3. Python Fundamentals Outputs
+
+# Assignment 2
+- Two Files Available [One .py Files & One PDF File]
+  1. 2_Data Structures in Python.py
+  2. Data Structures in Python Outputs
