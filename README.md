@@ -18,3 +18,8 @@ Python Files &amp; Outputs
   2. BodyMassIndex.py
   3. MonthNames.py
   4. Conditional & Looping Statements Outputs
+
+# Assignment 3
+- Two Files Available [One .py Files & One PDF File]
+  1. 4. Python Function.py
+  2. Python Function Outputs
