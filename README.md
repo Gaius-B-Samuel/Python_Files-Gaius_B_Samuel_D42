@@ -23,3 +23,11 @@ Python Files &amp; Outputs
 - Two Files Available [One .py Files & One PDF File]
   1. 4. Python Function.py
   2. Python Function Outputs
+
+# Assignment 3
+- Five Files Available [Three .txt Files, One .py Files & One PDF File]
+  1. 5. Files & Exception Handling.py
+  2. file1.txt
+  3. file2.txt
+  4. Newfile.txt
+  5. Files & Exception Handling Outputs
