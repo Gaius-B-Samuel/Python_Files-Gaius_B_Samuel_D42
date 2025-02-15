@@ -36,3 +36,7 @@ Python Files &amp; Outputs
 - Two Files Available [One .py Files & One PDF File]
   1. 6. Python Part OOPs.py
   2. Python Part OOPS Outputs
+ 
+# Assignment 7
+- One File
+  1. 7. Numpy_Panda.ipynb
