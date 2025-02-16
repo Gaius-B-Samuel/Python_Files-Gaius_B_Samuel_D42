@@ -40,3 +40,7 @@ Python Files &amp; Outputs
 # Assignment 7
 - One File
   1. 7. Numpy_Panda.ipynb
+
+# Assignment 8
+- One File
+  1. 8. Python_Data_Visualization.ipynb
